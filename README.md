@@ -27,5 +27,5 @@ Para replicar esta análise em seu ambiente local, certifique-se de ter o Python
 Embora este script funcione de forma autônoma, sua lógica de extração e cálculo pode ser integrada a sistemas maiores de orçamentação (ERP) ou painéis de Business Intelligence (BI), servindo como um módulo de atualização automática de índices para reajuste de contratos e planejamento financeiro de obras.
 
 ---
-**Autor:** Vitor Sousa
+**Autor:** Vitor Sousa,
 Estudante de Engenharia Civil - UFMG

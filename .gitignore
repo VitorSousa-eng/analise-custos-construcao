@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais (se você usar venv)
+venv/
+env/
+.env
+
+# Arquivos de sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Imagens geradas (Opcional: se quiser salvar a imagem no repo, REMOVA esta linha. Se quiser que o usuário gere a dele, MANTENHA).
+# Eu recomendo REMOVER essa linha abaixo para o gráfico aparecer no README.
+# *.png

@@ -1,5 +1,10 @@
 # Análise Comparativa de Custos na Construção Civil (INCC vs IPCA)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Licença MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 ## Visão Geral do Projeto
 Este projeto consiste em uma ferramenta de engenharia de dados desenvolvida em Python para monitorar e comparar a evolução dos custos na construção civil em relação à inflação geral do país. O objetivo principal é responder a uma questão recorrente na gestão de obras: o descolamento entre o custo real de construir (medido pelo INCC-M) e o custo de vida médio (medido pelo IPCA).
 
